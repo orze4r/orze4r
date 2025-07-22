@@ -40,3 +40,14 @@
 <p style="font-style: italic; color: gray;">
   🚀 Nothing fancy here — just focused learning, one command at a time.
 </p>
+
+
+<div align="right">
+  <details>
+    <summary><h3>🕵️ Wanna see a surprise?</h3></summary>
+    <br/>
+    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" /><br/>
+    <i>Alright, you found the Easter egg.</i><br/>
+    Here's your cookie 🍪
+  </details>
+</div>
