@@ -3,8 +3,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="195" style="margin-top: 10px;" />
 
 <p>
-  I’m currently diving deep into <strong>Networking</strong>, <strong>Linux</strong>, and <strong>Cybersecurity</strong> — brick by brick.<br/>
-  This README will grow along with me 🧠💻
+  I’m currently diving deep into <strong>Networking</strong>, <strong>Linux</strong>, and <strong>Pre-Cybersecurity</strong> — brick by brick.<br/>
+  This README will grow along with me 💻
 </p>
 
 <hr/>
@@ -20,7 +20,7 @@
 <h3>🛠️ Tools & Platforms</h3>
 
 <ul>
-  <li><strong>Git & GitHub:</strong> for version control & habit building</li>
+  <li><strong>Core Networking:</strong> Learning these before I can say "I know what's the issue with your internet!"</li>
   <li><strong>Termux:</strong> bringing the Linux CLI to Android (mobile grind 🔧)</li>
   <li><strong>Learning Platforms:</strong> Fortinet NSE, Cisco NetAcad, Cybrary, TryHackMe, etc.</li>
 </ul>
@@ -32,7 +32,7 @@
 <ul>
   <li>Get hands-on with real networking tools</li>
   <li>Build solid notes, cheat-sheets, and blog posts</li>
-  <li>Land a practical networking or entry-level security role</li>
+  <li>Land a practical networking or entry-level security role as my first job.</li>
 </ul>
 
 <hr/>
@@ -44,7 +44,7 @@
 
 <div align="right">
   <details>
-    <summary><h3>🕵️ Wanna see a surprise?</h3></summary>
+    <summary>…</summary>
     <br/>
     <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" /><br/>
     <i>Alright, you found the Easter egg.</i><br/>
