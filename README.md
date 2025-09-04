@@ -1,46 +1,44 @@
 <h2 style="font-size: 28px;">Hi there 👋🏽</h2>
 
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="195" style="margin-top: 10px;" />
 
 <p>
-  I’m currently diving deep into <strong>Networking</strong>, <strong>Linux</strong>, and <strong>Pre-Cybersecurity</strong> — brick by brick.<br/>
+  I’m diving deep into <strong>Networking</strong>, <strong>Linux</strong>, and <strong>Pre-Cybersecurity</strong> — brick by brick.<br/>
   This README will grow along with me 💻
 </p>
+
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250" style="margin-top: 10px;" />
+
 
 <hr/>
 
 <h3>📚 Currently Learning</h3>
-
 <ul>
-  <li><strong>Networking:</strong> OSI, IP/Subnetting, DHCP, DNS</li>
-  <li><strong>Linux:</strong> Debian-based distros, CLI, shell scripting basics</li>
-  <li><strong>Cybersec:</strong> Fortinet NSE (FCF/FCA), TryHackMe Pre-Security</li>
+  <li><strong>Networking:</strong> OSI model, IP/Subnetting, DHCP, DNS, firewalls, VPNs</li>
+  <li><strong>Linux:</strong> Debian-based distros, CLI commands, shell scripting, system administration basics</li>
+  <li><strong>Cybersecurity:</strong> Fortinet NSE (FCF/FCA), TryHackMe Pre-Security, SOC fundamentals</li>
 </ul>
 
 <h3>🛠️ Tools & Platforms</h3>
-
 <ul>
-  <li><strong>Core Networking:</strong> Learning these before I can say "I know what's the issue with your internet!"</li>
-  <li><strong>Termux:</strong> bringing the Linux CLI to Android (mobile grind 🔧)</li>
-  <li><strong>Learning Platforms:</strong> Fortinet NSE, Cisco NetAcad, Cybrary, TryHackMe, etc.</li>
+  <li><strong>Networking Tools:</strong> Wireshark, Nmap, Netcat, Packet Tracer / GNS3 (learning labs)</li>
+  <li><strong>Linux & CLI:</strong> Termux, Ubuntu, Kali, Debian-based distros</li>
+  <li><strong>Learning Platforms:</strong> Fortinet NSE, Cisco NetAcad, TryHackMe, HackTheBox, OverTheWire, etc</li>
 </ul>
 
 <hr/>
 
 <h3>🎯 Goals</h3>
-
 <ul>
-  <li>Get hands-on with real networking tools</li>
-  <li>Build solid notes, cheat-sheets, and blog posts</li>
-  <li>Land a practical networking or entry-level security role as my first job.</li>
+  <li>Gain hands-on experience with real networking & security tools</li>
+  <li>Document learning: notes, cheat sheets, mini-projects</li>
+  <li>Secure an entry-level networking or cybersecurity role as my first job</li>
 </ul>
 
 <hr/>
 
 <p style="font-style: italic; color: gray;">
-  🚀 Nothing fancy here — just focused learning, one command at a time.
+  🚀 Focused learning, one command at a time — no shortcuts.
 </p>
-
 
 <div align="right">
   <details>
